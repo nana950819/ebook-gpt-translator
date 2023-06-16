@@ -120,9 +120,6 @@ The `settings.cfg` file contains several options that can be used to configure t
 
 The output of the script will be an EPUB file with the same name as the input file, but with `_translated` appended to the end. For example, if the input file is `example.pdf`, the output file will be `example_translated.epub` and `example_translated.txt`.
 
-## License
-
-This tool is released under the MIT License.
 
 ## Disclaimer:
 
